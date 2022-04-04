@@ -1,0 +1,26 @@
+.one{
+    border: 5px #ff7f50;
+    padding: 20px;
+    background-color: #00ffff;
+    border-radius: 10px;
+    position: absolute;
+    text-align: center;
+    width: 30%;
+    left: 20%;
+    top: 20%;
+
+}
+.two{
+    border: 5px double chartreuse;
+    padding: 40px;
+    background-color: blue;
+
+
+}
+.three{
+    border: 5px dotted cyan;
+    padding: 20px;
+   background-color: #ff7f50;
+    border-radius: 10px;
+    
+}
